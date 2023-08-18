@@ -29,8 +29,10 @@ First, you’ll need Underscore. Then you can grab the relevant underscore-contr
 something
 like the following to your pages:
 
-    <script type="text/javascript" src="underscore.js"></script>
+ ```js
+<script type="text/javascript" src="underscore.js"></script>
     <script type="text/javascript" src="underscore.object.builders.js"></script>
+```
 
 At the moment there are no cross-contrib dependencies (i.e. each library can stand by itself), but that may
 change in the future.
