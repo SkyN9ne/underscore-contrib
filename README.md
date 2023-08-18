@@ -29,7 +29,7 @@ First, you’ll need Underscore. Then you can grab the relevant underscore-contr
 something
 like the following to your pages:
 
- ```js
+ ```html
 <script type="text/javascript" src="underscore.js"></script>
     <script type="text/javascript" src="underscore.object.builders.js"></script>
 ```
